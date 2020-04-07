@@ -1,17 +1,17 @@
 {
  "session": [
-    { "title": "Class First", "channel": "https://docs.google.com/spreadsheets/d/1wT8OsGIJcoOID7WvvuSqMJmFf1_YwwmXq-rJTO38CrA",
+    { "title": "Class First", "channel": "https://docs.google.com/spreadsheets/d/1Tj5zHM40x669YxVIkfex-RTZXYQ2RN7T_AHAc2phjiQ",
      "message": "Topic : Chapter 1st - English and classes will start from 10 AM to 12PM, By Anuradha Mam ", 
        "isoff": "no",
      "invoker_uid":19199191
     },
-  { "title": "Class Second", "channel": "live_classes_class2",
+  { "title": "Class Second", "channel": "https://docs.google.com/spreadsheets/d/1G5pQEdpgstvyMGlqYrCue9HJowjQQ5yzkB8GjKPLyeU",
      "message": "Topic : Chapter 2nd - Hindi and classes will start from 10 AM to 12PM, By Raghav Sir ", 
        "isoff": "no",
      "invoker_uid":19199192
     }
   ,
-  { "title": "Class Third", "channel": "live_classes_class3",
+  { "title": "Class Third", "channel": "https://docs.google.com/spreadsheets/d/1wT8OsGIJcoOID7WvvuSqMJmFf1_YwwmXq-rJTO38CrA",
      "message": "Topic : Chapter 3rd - Math and classes will start from 10 AM to 12PM, By Rajni Mam ", 
        "isoff": "no",
      "invoker_uid":19199193
