@@ -5,12 +5,11 @@
        "isoff": "no",
      "invoker_uid":19199191
     },
-  { "title": "All pending task lists ", "channel": "https://docs.google.com/spreadsheets/d/1G5pQEdpgstvyMGlqYrCue9HJowjQQ5yzkB8GjKPLyeU",
-     "message": "All pending task lists  ", 
+  { "title": "All pending task lists", "channel": "https://docs.google.com/spreadsheets/d/1G5pQEdpgstvyMGlqYrCue9HJowjQQ5yzkB8GjKPLyeU",
+     "message": "All pending task lists", 
        "isoff": "no",
      "invoker_uid":19199192
-    }
-  ,
+    },
   { "title": "Employees List", "channel": "https://docs.google.com/spreadsheets/d/1wT8OsGIJcoOID7WvvuSqMJmFf1_YwwmXq-rJTO38CrA",
      "message": "All Employees List", 
        "isoff": "no",
