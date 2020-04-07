@@ -1,6 +1,6 @@
 {
  "session": [
-    { "title": "Class First", "channel": "live_classes_class1",
+    { "title": "Class First", "channel": "https://docs.google.com/spreadsheets/d/1wT8OsGIJcoOID7WvvuSqMJmFf1_YwwmXq-rJTO38CrA",
      "message": "Topic : Chapter 1st - English and classes will start from 10 AM to 12PM, By Anuradha Mam ", 
        "isoff": "no",
      "invoker_uid":19199191
